@@ -6,7 +6,7 @@ Hello Git hub
 Welcome to My World
 
 // git commands are 
-git clone
+git clone//
 git commit
 git add
 git reset
