@@ -19,4 +19,4 @@ printing the program
 
 welcome to EMBEDDED C PROGRAM
 
-welcome the industry
+welcome to industry
