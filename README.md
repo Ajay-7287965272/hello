@@ -13,3 +13,10 @@ git reset
 git init
 git branch
 git checkout
+
+
+printing the program
+
+welcome to EMBEDDED C PROGRAM
+
+welcome the industry
